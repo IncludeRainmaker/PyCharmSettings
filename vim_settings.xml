@@ -17,45 +17,50 @@
         <mark key="^" line="23" column="79" />
         <mark key="." line="23" column="79" />
       </file>
-      <file name="$USER_HOME$/Desktop/txtTableGen/app.py" timestamp="1498138379743" />
+      <file name="$USER_HOME$/Desktop/txtTableGen/app.py" timestamp="1498139639342">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="34" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuaW5wdXQpCiAgICBwcmludCgiezB9Ii5mb3JtYXQoYXJncy5vdXRwdXQpKQo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuaGVhZGVyID09IFRydWU6Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuaW5wdXQpCiAgICBwcmludCgiezB9Ii5mb3JtYXQoYXJncy5vdXRwdXQpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXJzZXIK</text>
+        <text encoding="base64">ZGVmIHdyaXRlX2hlYWRlcihhcmdzKToKICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3Mub3V0cHV0KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIG9wZW5fZmlsZShpbnB1dCk6CiAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oYXJncy5pbnB1dCwgJ3InKSBhcyBjc3ZmaWxlOgogICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90YWJsZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHJpbnQoImhpIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
