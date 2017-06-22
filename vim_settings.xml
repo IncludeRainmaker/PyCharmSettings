@@ -23,6 +23,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="34" />
       </file>
+      <file name="$USER_HOME$/Desktop/txtTableGen/includes/csv_helper.py" timestamp="1498140450344">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -30,7 +36,7 @@
         <text encoding="base64">ICAgIGlmIGFyZ3MuaGVhZGVyID09IFRydWU6Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGVmIHdyaXRlX2hlYWRlcihhcmdzKToKICAgIHBhc3MK</text>
@@ -60,7 +66,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
     </registers>
     <search>
